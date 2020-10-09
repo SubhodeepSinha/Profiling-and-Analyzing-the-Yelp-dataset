@@ -1,1 +1,2 @@
-# Profiling-and-Analyzing-the-Yelp-dataset
+# SQL for Data Science
+University of California, Davis
